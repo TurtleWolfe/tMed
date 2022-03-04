@@ -26,7 +26,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/TurtleWolfe/tMed">
-    <img src="./Best-README-Template-master/images/logo.png" alt="Logo" width="80" height="80">
+    <!-- <img src="./Best-README-Template-master/images/logo.png" alt="Logo" width="80" height="80"> -->
+        <img src="https://github.com/TurtleWolfe/tMed/blob/main/Best-README-Template-master/images/logo.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -188,11 +189,11 @@ Project Link: [https://github.com/TurtleWolfe/tMed](https://github.com/TurtleWol
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Prof. E Hill]()
-* [Yong]()
-* [Sanay]()
-* [Francy]()
-* [TurtleWolfe]()
+* [Prof. E Hill](https://github.com/emhill)
+* [Yong](https://github.com/ponpenw)
+* [FrannyCam](https://github.com/frannycam)
+* [SNaveed786](https://github.com/SNaveed786)
+* [TurtleWolfe](https://github.com/TurtleWolfe)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
