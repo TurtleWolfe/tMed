@@ -223,9 +223,9 @@ ___
 
 ___
 
-## [Image classification](https://www.tensorflow.org/tutorials/images/classification "Image classification")
+## [Image classification](https://www.tensorflow.org/tutorials/images/classification "Image classification: flowers")
 
-## [Basic classification: Classify images of clothing](https://www.tensorflow.org/tutorials/keras/classification "Basic classification: Classify images of clothing")
+## [Basic classification](https://www.tensorflow.org/tutorials/keras/classification "Basic classification: clothing")
 
 ## [Image recognition with Machine Learning on Python, Image processing](https://towardsdatascience.com/image-recognition-with-machine-learning-on-python-image-processing-3abe6b158e9a "Medium Image recognition with Machine Learning on Python, Image processing")
 
