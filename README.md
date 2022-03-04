@@ -203,7 +203,9 @@ Project Link: [https://github.com/TurtleWolfe/tMed](https://github.com/TurtleWol
 
 ## [Task 2 ground truth:](https://isic-challenge-data.s3.amazonaws.com/2018/ISIC2018_Task2_Training_GroundTruth_v3.zip "33 MB Training Ground Truth")  
 
-### moved Attribution up a directory
+### moved **`ATTRIBUTION.txt`** & **`LICENSE.txt`** up a directory
+
+because it was breaking the for-loop
 
 [![Product Name Screen Shot][moved-Attribution]](https://example.com)
 
@@ -242,4 +244,4 @@ ___
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: ./Best-README-Template-master/images/screenshot.png
-[moved-Attribution]: ./Best-README-Template-master/images/movedAttribution.png
+[moved-Attribution]: https://github.com/TurtleWolfe/tMed/blob/main/Best-README-Template-master/images/movedAttribution.png?raw=true
