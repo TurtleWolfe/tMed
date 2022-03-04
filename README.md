@@ -200,7 +200,11 @@ Project Link: [https://github.com/TurtleWolfe/tMed](https://github.com/TurtleWol
 [Segmentation ground truth (task 1):](https://isic-challenge-data.s3.amazonaws.com/2018/ISIC2018_Task1_Training_GroundTruth.zip "26 MB Training Ground Truth")  
 [Task 2 ground truth:](https://isic-challenge-data.s3.amazonaws.com/2018/ISIC2018_Task2_Training_GroundTruth_v3.zip "33 MB Training Ground Truth")  
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+<!-- [I'm an inline-style link with title](https://www.google.com "Google's Homepage")   -->
+
+## [Edge Detection in Python : Data Science Code](https://youtu.be/PiErX7Y-ho0 "Detecting the edges of an image using python!")
+
+## [Fashion MNIST in Python With TensorFlow Keras](https://youtu.be/KDUnfk14aGk "In this video I'll kick off talking about Machine Learning in depth. If you see any mistakes do point them out as I am still trying to learn more myself  |  Machine Learning Tutorial")
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
