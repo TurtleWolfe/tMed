@@ -189,23 +189,45 @@ Project Link: [https://github.com/TurtleWolfe/tMed](https://github.com/TurtleWol
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Prof. E Hill](https://github.com/emhill)
-* [Yong](https://github.com/ponpenw)
-* [FrannyCam](https://github.com/frannycam)
-* [SNaveed786](https://github.com/SNaveed786)
-* [TurtleWolfe](https://github.com/TurtleWolfe)
+* [Prof. E Hill](https://github.com/emhill "notes")
+* [Yong](https://github.com/ponpenw "notes")
+* [FrannyCam](https://github.com/frannycam "notes")
+* [SNaveed786](https://github.com/SNaveed786 "notes")
+* [TurtleWolfe](https://github.com/TurtleWolfe "notes")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[Training data:](https://isic-challenge-data.s3.amazonaws.com/2018/ISIC2018_Task1-2_Training_Input.zip "10.4 GB Training Data")  
-[Segmentation ground truth (task 1):](https://isic-challenge-data.s3.amazonaws.com/2018/ISIC2018_Task1_Training_GroundTruth.zip "26 MB Training Ground Truth")  
-[Task 2 ground truth:](https://isic-challenge-data.s3.amazonaws.com/2018/ISIC2018_Task2_Training_GroundTruth_v3.zip "33 MB Training Ground Truth")  
+## [Training data:](https://isic-challenge-data.s3.amazonaws.com/2018/ISIC2018_Task1-2_Training_Input.zip "10.4 GB Training Data")  
 
-<!-- [I'm an inline-style link with title](https://www.google.com "Google's Homepage")   -->
+## [Segmentation ground truth (task 1):](https://isic-challenge-data.s3.amazonaws.com/2018/ISIC2018_Task1_Training_GroundTruth.zip "26 MB Training Ground Truth")  
 
-## [Edge Detection in Python : Data Science Code](https://youtu.be/PiErX7Y-ho0 "Detecting the edges of an image using python!")
+## [Task 2 ground truth:](https://isic-challenge-data.s3.amazonaws.com/2018/ISIC2018_Task2_Training_GroundTruth_v3.zip "33 MB Training Ground Truth")  
 
-## [Fashion MNIST in Python With TensorFlow Keras](https://youtu.be/KDUnfk14aGk "In this video I'll kick off talking about Machine Learning in depth. If you see any mistakes do point them out as I am still trying to learn more myself  |  Machine Learning Tutorial")
+### moved **`ATTRIBUTION.txt`** & **`LICENSE.txt`** up a directory
+
+because it was breaking the for-loop
+
+[![Product Name Screen Shot][moved-Attribution]](https://example.com)
+
+___
+
+## [How to Read, View and Export Images using OpenCV for Python](https://youtu.be/6yA5S9B2Z60 "In this video you'll learn how to: 1. Read in images into Python using OpenCV 2. Visualise images inside a Jupyter Notebook with Matplotlib 3. Write out transformed images")  
+
+## [Tutorial 2 - Import the Fashion MNIST Dataset from keras](https://www.youtube.com/watch?v=HI5Cl36k8wo "This is Tutorial 2 of our series of Tensor Flow Tutorials for Machine Learning and Data Science. Here, we would import the Fashion MNIST dataset which comes with keras.")
+
+## [Tutorial 3 - Examine the Image Data](https://www.youtube.com/watch?v=l2Rw5HZGESsa "This is Tutorial 3 of our series of Tensor Flow Tutorials for Machine Learning and Data Science. In this tutorial, we would examine the image dataset. We would also split the data into training and test datasets.")
+
+## [Edge Detection in Python: Data Science Code](https://youtu.be/PiErX7Y-ho0 "Detecting the edges of an image using python!")
+
+## [Fashion MNIST in Python With TensorFlow Keras | Machine Learning Tutorial](https://youtu.be/KDUnfk14aGk "In this video, I'll kick off talking about Machine Learning in depth. If you see any mistakes do point them out as I am still trying to learn more myself. Thx")
+
+___
+
+## [Image classification](https://www.tensorflow.org/tutorials/images/classification "Image classification: flowers")
+
+## [Basic classification](https://www.tensorflow.org/tutorials/keras/classification "Basic classification: clothing")
+
+## [Image recognition with Machine Learning on Python, Image processing](https://towardsdatascience.com/image-recognition-with-machine-learning-on-python-image-processing-3abe6b158e9a "Medium Image recognition with Machine Learning on Python, Image processing")
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -222,3 +244,4 @@ Project Link: [https://github.com/TurtleWolfe/tMed](https://github.com/TurtleWol
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: ./Best-README-Template-master/images/screenshot.png
+[moved-Attribution]: https://github.com/TurtleWolfe/tMed/blob/main/Best-README-Template-master/images/movedAttribution.png?raw=true
